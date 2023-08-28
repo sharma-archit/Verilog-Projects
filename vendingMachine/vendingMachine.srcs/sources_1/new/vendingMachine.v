@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Archit Sharma
 // 
 // Create Date: 06/15/2023 06:26:50 PM
 // Design Name: 
@@ -16,7 +16,11 @@
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
-// 
+// The Vending Machine accepts $5, $10, $20, and $50 denominations. 
+// Items: Phone case - 10$, Earbuds - 15$
+// The current sum of the total money inserted should be displayed on the seven segment during each state of the Finite State Machine (FSM)
+// Hand over the change to the customer, and then dispense the item (phone case/ earbuds)
+// Seven segment should update the amount as the change dispenses.
 //////////////////////////////////////////////////////////////////////////////////
 
 
