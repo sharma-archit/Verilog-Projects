@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Archit Sharma
 // 
 // Create Date: 06/14/2023 03:27:47 PM
 // Design Name: 
@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: SEQUENCE DETECTOR : 11011 - OVERLAPPING CASE : MEALY FSM
 // 
 // Dependencies: 
 // 
