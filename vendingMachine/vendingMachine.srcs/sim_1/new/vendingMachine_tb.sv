@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Archit Sharma
 // 
 // Create Date: 06/15/2023 06:28:57 PM
 // Design Name: 
