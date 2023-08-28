@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: SEQUENCE DETECTOR : 10X01 - OVERLAPPING CASE : MEALY FSM
+// Description:
 // 
 // Dependencies: 
 // 
