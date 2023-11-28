@@ -1,4 +1,4 @@
-# Simple CPU
+# Simple CPU (WIP)
 
 This is a design of a simple CPU that runs two programs:
 1. Get user input and check if it is zero. If ‘yes’ just output the 0. If ‘no’ the 
